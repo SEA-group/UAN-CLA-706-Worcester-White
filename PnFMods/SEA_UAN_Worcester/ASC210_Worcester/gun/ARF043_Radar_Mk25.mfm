@@ -1,0 +1,17 @@
+<ARF043_Radar_Mk25.mfm>
+	<fx>	shaders/std_effects/PBS_ship.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/ARF043_Radar_Mk25_mg.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/ARF043_Radar_Mk25_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/ARF043_Radar_Mk25_n.dds	</Texture>
+	</property>
+</ARF043_Radar_Mk25.mfm>

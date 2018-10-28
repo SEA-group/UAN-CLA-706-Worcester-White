@@ -1,0 +1,13 @@
+<AGA026_3in50_Twin_Mark_33_dead.model>
+	<extent>	2.0000	</extent>
+	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGA026_3in50_Twin_Mark_33_dead_lod1	</parent>
+	<materialNames />
+	<castsShadow>	false	</castsShadow>
+	<visibilityBox>
+		<min>	-0.144732 0.000000 -0.127163	</min>
+		<max>	0.163001 0.265544 0.157315	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGA026_3in50_Twin_Mark_33_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA026_3in50_Twin_Mark_33_dead.model>

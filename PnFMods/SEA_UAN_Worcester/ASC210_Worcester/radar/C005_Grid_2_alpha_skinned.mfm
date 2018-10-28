@@ -1,0 +1,8 @@
+<C005_Grid_2_alpha_skinned.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/grid_alpha_skinned.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/radar/C005_Grid_2_alpha_a.dds	</Texture>
+	</property>
+</C005_Grid_2_alpha_skinned.mfm>

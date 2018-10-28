@@ -1,0 +1,8 @@
+<AGA180_3in50_MK34_Radar_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGA180_3in50_MK34_Radar_dead_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGA180_3in50_MK34_Radar_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA180_3in50_MK34_Radar_dead.model>

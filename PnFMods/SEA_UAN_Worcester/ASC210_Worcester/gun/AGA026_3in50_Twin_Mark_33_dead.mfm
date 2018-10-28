@@ -1,0 +1,20 @@
+<AGA026_3in50_Twin_Mark_33_dead.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGA026_3in50_Twin_Mark_33_dead_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/default_ao.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGA026_3in50_Twin_Mark_33_dead_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/default_n.dds	</Texture>
+	</property>
+</AGA026_3in50_Twin_Mark_33_dead.mfm>

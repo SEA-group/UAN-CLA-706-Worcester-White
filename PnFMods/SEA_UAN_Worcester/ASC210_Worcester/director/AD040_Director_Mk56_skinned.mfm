@@ -1,0 +1,20 @@
+<AD040_Director_Mk56_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/director/AD040_Director_Mk56_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/director/AD040_Director_Mk56_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/director/AD040_Director_Mk56_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/director/default_ao.dds	</Texture>
+	</property>
+</AD040_Director_Mk56_skinned.mfm>

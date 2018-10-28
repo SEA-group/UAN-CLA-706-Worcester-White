@@ -1,0 +1,20 @@
+<AGM077_6in47_MK16_skinned.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGM077_6in47_MK16_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGM077_6in47_MK16_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGM077_6in47_MK16_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/default_ao.dds	</Texture>
+	</property>
+</AGM077_6in47_MK16_skinned.mfm>
