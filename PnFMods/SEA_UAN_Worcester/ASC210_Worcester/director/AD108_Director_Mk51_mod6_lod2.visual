@@ -25,7 +25,7 @@
 			<primitive>	AD108_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/director/AD108_Director_Mk51_mod6.mfm	</mfm>
 				</material>
 			</primitiveGroup>
