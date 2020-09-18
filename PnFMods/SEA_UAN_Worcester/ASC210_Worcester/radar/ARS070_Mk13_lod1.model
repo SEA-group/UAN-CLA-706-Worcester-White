@@ -1,8 +1,0 @@
-<ARS070_Mk13_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/radar/ARS070_Mk13_lod2	</parent>
-	<extent>	8.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/radar/ARS070_Mk13_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</ARS070_Mk13_lod1.model>

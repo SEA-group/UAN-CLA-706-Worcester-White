@@ -1,6 +1,6 @@
 <AD108_Director_Mk51_mod6.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/director/AD108_Director_Mk51_mod6_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/director/lods/AD108_Director_Mk51_mod6_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/director/AD108_Director_Mk51_mod6	</nodefullVisual>
 	<extent>	3.0000	</extent>
 	<castsShadow>	false	</castsShadow>

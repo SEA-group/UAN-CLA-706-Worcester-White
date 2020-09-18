@@ -3,7 +3,7 @@
 	<extent>	3.000000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGM077_6in47_MK16_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/lods/AGM077_6in47_MK16_dead_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGM077_6in47_MK16_dead	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </AGM077_6in47_MK16_dead.model>

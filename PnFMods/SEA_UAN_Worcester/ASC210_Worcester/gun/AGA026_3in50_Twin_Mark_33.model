@@ -1,7 +1,7 @@
 <AGA026_3in50_Twin_Mark_33.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	2.0000	</extent>
-	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGA026_3in50_Twin_Mark_33_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/lods/AGA026_3in50_Twin_Mark_33_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.139529 0.000000 -0.110323	</min>

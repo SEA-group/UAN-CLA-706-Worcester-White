@@ -1,6 +1,6 @@
 <AGA026_3in50_Twin_Mark_33_dead.model>
 	<extent>	2.0000	</extent>
-	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGA026_3in50_Twin_Mark_33_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/lods/AGA026_3in50_Twin_Mark_33_dead_lod1	</parent>
 	<materialNames />
 	<castsShadow>	false	</castsShadow>
 	<visibilityBox>

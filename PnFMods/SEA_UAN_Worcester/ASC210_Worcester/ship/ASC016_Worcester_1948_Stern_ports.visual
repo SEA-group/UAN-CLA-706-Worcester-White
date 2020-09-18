@@ -160,15 +160,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_AM480_4_Fuel_at_sea_hose	</identifier>
-				<transform>
-					<row0>	0.998630 0.000000 -0.052336 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.052336 0.000000 0.998630 0.000000	</row2>
-					<row3>	0.545880 0.395526 -4.392639 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_CM002_Propeller4_L_INDEX_1	</identifier>
 				<transform>
 					<row0>	0.998630 -0.001826 -0.052304 0.000000	</row0>

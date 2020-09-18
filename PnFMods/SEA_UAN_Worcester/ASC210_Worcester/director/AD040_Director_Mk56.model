@@ -6,7 +6,7 @@
 		<max>	0.048734 0.139556 0.050618	</max>
 	</visibilityBox>
 	<extent>	1.000000	</extent>
-	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/director/AD040_Director_Mk56_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/director/lods/AD040_Director_Mk56_lod1	</parent>
 	<exporter>	1.6	</exporter>
 	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/director/AD040_Director_Mk56	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
