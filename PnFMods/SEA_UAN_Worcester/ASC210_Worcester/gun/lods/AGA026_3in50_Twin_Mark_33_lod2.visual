@@ -47,7 +47,7 @@
 			<primitive>	Turret_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGA026_3in50_Twin_Mark_33.mfm	</mfm>
 				</material>
 			</primitiveGroup>

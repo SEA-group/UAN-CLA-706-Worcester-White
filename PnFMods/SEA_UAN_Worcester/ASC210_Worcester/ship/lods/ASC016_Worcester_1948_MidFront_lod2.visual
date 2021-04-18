@@ -137,7 +137,7 @@
 			<primitive>	MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -151,7 +151,7 @@
 			<primitive>	MidFront_patch_MidBack_wire_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_Hull_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -165,7 +165,7 @@
 			<primitive>	MidFront_patch_MidBack_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -179,7 +179,7 @@
 			<primitive>	MidFront_patch_MidBack_DeckHouse_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -193,7 +193,7 @@
 			<primitive>	MidFront_crack_MidBack_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -207,7 +207,7 @@
 			<primitive>	MidFront_crack_MidBack_in_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -221,7 +221,7 @@
 			<primitive>	MidFront_crack_MidBack_DeckHouse_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -235,7 +235,7 @@
 			<primitive>	MidFront_crack_MidBack_DeckHouse_in_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -249,7 +249,7 @@
 			<primitive>	MidFront_crack_Bow_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -263,7 +263,7 @@
 			<primitive>	MidFront_crack_Bow_in_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -291,7 +291,7 @@
 			<primitive>	MidFront_wire_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_Hull_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -305,7 +305,7 @@
 			<primitive>	MidFront_DeckHouse_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
+					<identifier>	SHIPMATX_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -75,7 +75,7 @@
 			<primitive>	RadarSGShape7.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
+					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/radar/ARS045_Radar_SG6_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

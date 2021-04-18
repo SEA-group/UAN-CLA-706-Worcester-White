@@ -38,7 +38,7 @@
 			<primitive>	Radar_base_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director1	</identifier>
+					<identifier>	SHIPMATX_PBS_Director1	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/radar/ARS070_Mk13.mfm	</mfm>
 				</material>
 			</primitiveGroup>

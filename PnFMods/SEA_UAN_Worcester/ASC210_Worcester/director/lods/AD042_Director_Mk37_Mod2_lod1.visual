@@ -65,7 +65,7 @@
 			<primitive>	DirectorMk37Mod2_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
+					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/director/AD042_Director_Mk37_Mod2.mfm	</mfm>
 				</material>
 			</primitiveGroup>

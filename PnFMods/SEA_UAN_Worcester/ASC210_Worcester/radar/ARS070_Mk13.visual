@@ -47,7 +47,7 @@
 			<primitive>	Radar_baseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director1	</identifier>
+					<identifier>	SHIPMATX_PBS_Director1	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/radar/ARS070_Mk13.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -61,7 +61,7 @@
 			<primitive>	Radar_base_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Director	</identifier>
+					<identifier>	SHIPWIREX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/radar/ARS070_Mk13_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

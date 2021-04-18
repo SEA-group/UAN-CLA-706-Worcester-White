@@ -29,7 +29,7 @@
 			<primitive>	AGM077_deadShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGM077_6in47_MK16_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
