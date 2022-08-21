@@ -1,0 +1,8 @@
+<AGM219_6in47_MK16_second_lod2.model>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/lods/AGM077_6in47_MK16_lod3	</parent>
+	<extent>	15.000000	</extent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/lods/AGM077_6in47_MK16_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGM219_6in47_MK16_second_lod2.model>

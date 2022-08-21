@@ -1,0 +1,7 @@
+<AAS011_Curtiss_SC2.model>
+	<castsShadow>	true	</castsShadow>
+	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/aircraft/lods/AAS011_Curtiss_SC2_lod1	</parent>
+	<extent>	4.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/aircraft/AAS011_Curtiss_SC2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AAS011_Curtiss_SC2.model>

@@ -1,0 +1,13 @@
+<AAF024_XP_40S_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/aircraft/AAF024_XP_40S_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/aircraft/AAF024_XP_40S_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/aircraft/AAF024_XP_40S_n.dds	</Texture>
+	</property>
+</AAF024_XP_40S_wire.mfm>

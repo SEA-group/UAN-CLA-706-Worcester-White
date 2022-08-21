@@ -1,4 +1,4 @@
-# UAN CLA-706 Worcester 
+# UAN CLA-706 Worcester White
 
 Skin modification for tier 10 cruiser **Worcester**. 
 
