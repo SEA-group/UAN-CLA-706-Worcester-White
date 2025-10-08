@@ -1,9 +1,6 @@
 <AGM218_6in47_MK16_first_dead.model>
-	<exporter>	1.6	</exporter>
-	<extent>	3.000000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/lods/AGM077_6in47_MK16_dead_lod1	</parent>
-	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGM077_6in47_MK16_dead	</nodefullVisual>
+	<visual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/gun/AGM077_6in47_MK16_dead.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </AGM218_6in47_MK16_first_dead.model>

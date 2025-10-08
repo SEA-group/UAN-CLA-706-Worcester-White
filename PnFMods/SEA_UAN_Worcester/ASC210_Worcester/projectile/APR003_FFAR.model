@@ -1,7 +1,6 @@
 <APR003_FFAR.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/projectile/lods/APR003_FFAR_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/projectile/APR003_FFAR	</nodefullVisual>
+	<visual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/projectile/APR003_FFAR.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </APR003_FFAR.model>

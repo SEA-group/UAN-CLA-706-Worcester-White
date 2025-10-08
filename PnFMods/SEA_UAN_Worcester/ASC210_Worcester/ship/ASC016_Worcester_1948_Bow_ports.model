@@ -1,8 +1,6 @@
 <ASC016_Worcester_1948_Bow_ports.model>
-	<castsShadow>	true	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<materialNames />
-	<extent>	200.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_Bow_ports	</nodefullVisual>
+	<visual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948_Bow_ports.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </ASC016_Worcester_1948_Bow_ports.model>

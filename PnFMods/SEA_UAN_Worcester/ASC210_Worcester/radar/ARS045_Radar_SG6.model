@@ -1,23 +1,8 @@
 <ARS045_Radar_SG6.model>
-	<castsShadow>	false	</castsShadow>
-	<action>
-		<name>	idle	</name>
-		<animation>	Rotation5rpm	</animation>
-		<filler>	true	</filler>
-	</action>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/radar/lods/ARS045_Radar_SG6_lod1	</parent>
-	<extent>	5.0000	</extent>
-	<materialNames />
-	<visibilityBox>
-		<min>	-0.065235 -0.000000 -0.065235	</min>
-		<max>	0.065235 0.164857 0.065235	</max>
-	</visibilityBox>
-	<animation>
-		<name>	Rotation5rpm	</name>
-		<frameRate>	30.000000	</frameRate>
-		<nodes>	content/animation/common/Rotation5rpm	</nodes>
-	</animation>
-	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/radar/ARS045_Radar_SG6	</nodefullVisual>
+	<visual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/radar/ARS045_Radar_SG6.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/ARS045_Radar_SG6/ARS045_Radar_SG6.ssm	</animation>
+	</animations>
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </ARS045_Radar_SG6.model>

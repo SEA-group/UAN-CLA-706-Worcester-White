@@ -1,8 +1,6 @@
 <ASC016_Worcester_1948.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/lods/ASC016_Worcester_1948_Full_lod4	</parent>
-	<extent>	400.0000	</extent>
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948	</nodefullVisual>
+	<visual>	PnFMods/SEA_UAN_Worcester/ASC210_Worcester/ship/ASC016_Worcester_1948.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </ASC016_Worcester_1948.model>
